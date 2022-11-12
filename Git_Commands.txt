@@ -1,0 +1,16 @@
+git clone  "https:/repo"
+git status (To check the status of git if we're in the stage area or remote")
+git add    (The name of the file / or * to add all )
+git commit -c "comments" (to comment the process that u done )
+git reset head file_name (To come back in the locale stage area )
+-----------------------------------------------------------------------------------------------------------------------------------
+git branch (to know all the branches/Name in your local)
+git push Remote_Repo_Name Branch_Name 
+git remot --v (To know the Remote Repo Name)
+git push origine master 
+----------------------------------------------------------------------------------------------------------------------------------- 
+git commit tata.txt -m "new line updtaed" (This is how to do another commit if u change something in the file)
+git pull "Remote_Repo"
+
+#// This link is useful if you want to troublshoot the adding of ssh_keys
+(https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
