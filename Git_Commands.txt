@@ -14,3 +14,19 @@ git pull "Remote_Repo"
 
 #// This link is useful if you want to troublshoot the adding of ssh_keys
 (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+-----------------------------------------------------------------------------------------------------------------------------------
+git config --global user.name "the name "
+git config --global user.email "the email"
+git config --global unset user.name (if you wante to remove or modify this one"
+git help config
+git config --list
+git config --global --edit
+-----------------------------------------------------------------------------------------------------------------------------------
+Create local Repo or a project from scratch then push it to a new romte repo in git 
+1/Create your working directory and add the necessary files 
+2/git init (to initialize an empty working directory)
+3/moving from working directory to the staging area then the local repo
+4/creating your remote repo in GIthub
+5/git remote add origin "add the remote origin link"
+6/git push -u origin master
+-----------------------------------------------------------------------------------------------------------------------------------
