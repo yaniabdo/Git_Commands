@@ -28,5 +28,7 @@ Create local Repo or a project from scratch then push it to a new romte repo in 
 3/moving from working directory to the staging area then the local repo
 4/creating your remote repo in GIthub
 5/git remote add origin "add the remote origin link"
-6/git push -u origin master
+6/git push -u origin master (The u means that you do a pulled then push toghether for example consider that you're working as a team
+and someone previously add some file to the working directory so its not logical to do just a push you don need firstly to have the changes 
+that made by the team"
 -----------------------------------------------------------------------------------------------------------------------------------
