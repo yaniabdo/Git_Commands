@@ -32,3 +32,13 @@ Create local Repo or a project from scratch then push it to a new romte repo in 
 and someone previously add some file to the working directory so its not logical to do just a push you don need firstly to have the changes 
 that made by the team"
 -----------------------------------------------------------------------------------------------------------------------------------
+Learn Pull Request with real examples 
+Pull requests are usefull if you're working with a team and from it the centralized server knows that there is some modification that they need to be up to date
+but before the responsible of the project accept it 'i mean the pull request) they will need to check if everything is OK then they do a merge.
+1/you do the modification 
+2/you commit your work 
+3/you do a pull request (new pull request and create a pull request )
+
+The second choice is when you do a pul request in a new branch and not in the main branch and after that you can delete it or delete completley the fork
+and notice that there is a specific pattern for the naming of the branch based on the feature you're working in.
+ 
