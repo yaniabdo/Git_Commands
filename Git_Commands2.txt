@@ -1,0 +1,9 @@
+Learn everything about aliases
+git config --global alias.st status 
+git config --global alias.st
+git st
+git config --global alais.cm "commit -m"   if there is a space you should use double quote 
+git config --gloabl --edit
+to use some alaises check out them in google git aliase list 
+-----------------------------------------------------------------------------------------------------------------------------------
+Learn about Branching and merging 
