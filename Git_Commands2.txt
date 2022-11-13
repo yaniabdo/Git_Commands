@@ -7,3 +7,19 @@ git config --gloabl --edit
 to use some alaises check out them in google git aliase list 
 -----------------------------------------------------------------------------------------------------------------------------------
 Learn about Branching and merging 
+git branch ==> to list all the branches
+git branch scroll ==> create a branch with the name scroll
+git checkout scroll ==> switch to the branch name scroll
+git checkout -b dev-1 ===> here you'll create and swith to the branch 
+git branch -d (the name of the branch)==> delete the branch if there is no modifications
+git branch -D (the name of the branc ) ==> force the deletion of the branch 
+git branch -m developement ==> rename the branch 
+
+when you do a modifications at the level of the branch you can merge you're modifications with the master and push them
+git merge developement 
+The other cenario is push you're work from the current branch but you should do a pull request after the work done 
+-----------------------------------------------------------------------------------------------------------------------------------
+Mastering stash
+stash command let you create files but you can do not upload them to Github
+git stash
+git stash pop 
