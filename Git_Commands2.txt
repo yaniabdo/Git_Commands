@@ -19,12 +19,7 @@ when you do a modifications at the level of the branch you can merge you're modi
 git merge developement 
 The other cenario is push you're work from the current branch but you should do a pull request after the work done 
 -----------------------------------------------------------------------------------------------------------------------------------
-Mastering stash (here we do need to modify this thing )
+Mastering stash 
 stash command let you create files but you can do not upload them to Github
 git stash
 git stash pop 
-
-
-This is my first pull request ====> let's verify that everything is working properly 
-another one 
-another one just for test 
